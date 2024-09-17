@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdint.h>
 #include "format.h"
 
 //Convierte un carácter de ASCII simple a una letra del alfabeto español.
