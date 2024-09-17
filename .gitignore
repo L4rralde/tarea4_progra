@@ -4,5 +4,5 @@
 *.zip
 *.html
 *.pdf
-images/output
-output
+images/output/*.pgm
+*.o
